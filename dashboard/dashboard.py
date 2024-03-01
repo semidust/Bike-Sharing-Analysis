@@ -181,4 +181,4 @@ with col2:
 
     st.pyplot(fig)
 
-st.caption("Copyright © 2023 [Sammytha](https://github.com/semidust)")
+st.caption("Copyright © 2024 [Sammytha](https://github.com/semidust)")
